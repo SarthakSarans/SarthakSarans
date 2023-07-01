@@ -4,7 +4,6 @@
 - 🎓 I'm majoring in Computer Engineering at Texas A&M
 - 👨‍💻 I’m currently working on web development technologies like JavaScript and React
 - 📚 I’m currently learning about OpenGL and Ray Tracing
-- 👨‍🏫 I'm always looking for mentors in the industry, so feel free to reach out!
 - 🧠 Future Goal: Continue learning about the diverse field of technology
 
 ### 🧰 Tech Stack
