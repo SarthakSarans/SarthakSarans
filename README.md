@@ -1,7 +1,7 @@
 ## Hey! I'm Sarthak 👋
 
 ###  😄 About Me 
-- 🎓 I'm majoring in Computer Engineering at Texas A&M
+- 🎓 I'm majoring in Computer Engineering at University of Texas at Austin 🤘
 - 👨‍💻 I’m currently working on web development technologies like JavaScript and React
 - 📚 I’m currently learning about OpenGL and Ray Tracing
 - 🧠 Future Goal: Continue learning about the diverse field of technology
