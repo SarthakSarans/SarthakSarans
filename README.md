@@ -3,8 +3,9 @@
 ###  😄 About Me 
 - 🎓 I'm majoring in Computer Engineering at University of Texas at Austin 🤘
 - 👨‍💻 I’m currently working on web development technologies like JavaScript and React
-- 📚 I’m currently learning about OpenGL and Ray Tracing
-- 🧠 Future Goal: Continue learning about the diverse field of technology
+- 📚 I’m currently learning about various Machine Learning theory
+- 🧠 Future Goal: Continue learning about ML and understand at a funamental level
+- 📨 Reach out at sarthaksarans@utexas.edu
 <!--
 ### 🧰 Tech Stack 
 -  💻 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
