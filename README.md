@@ -4,7 +4,7 @@
 - 🎓 I'm majoring in Computer Engineering at University of Texas at Austin 🤘
 - 👨‍💻 I’m currently working on web development technologies like JavaScript and React
 - 📚 I’m currently learning about various Machine Learning theory
-- 🧠 Future Goal: Continue learning about ML and understand at a funamental level
+- 🧠 Future Goal: Continue learning about ML and understand at a fundamental level
 - 📨 Reach out at sarthaksarans@utexas.edu
 <!--
 ### 🧰 Tech Stack 
